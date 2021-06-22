@@ -1,1 +1,1 @@
-# To make a Gradient Backgrond
+# To make a Gradient Background
